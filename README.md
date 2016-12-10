@@ -1,3 +1,5 @@
+You have to have the zip file downloaded and unziped in your working directory so that the scripts can have access to the it and produce the required plots
+
 ## Introduction
 
 This assignment uses data from
